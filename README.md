@@ -29,18 +29,22 @@ Projeto desenvolvido em parceria com o curso Explorer da Rocketseat.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML ,CSS e JavaScript  
+- HTML e CSS  
 - Git e Github
 - Figma
 
 
 ## 💻 Projeto
 
-Nesse projeto, realizado em parceria com a equipe da Rocketseat, podemos marcar os favoritos do GitHub (as pessoas que a gente quer favoritar). Posso colocar e tirar usuários a qualquer momento. Caso eu tenha colocado um usuário que já foi cadastrado, a aplicação dará uma alerta de que aquele usuário já está cadastrado. No projeto, trabalhamos com a ideia de se comunicar com API.
+- Iniciei o projeto levando em consideração a regra do mobile first, como você pode ver, no layout já temos a aplicação responsiva também;
+- Utilizei animações, transições e transformações;
+- Utilizei unidades de medida flexíveis (rem);
+- Utilizei variáveis no CSS pra treinar;
 
-Utilizamos conceitos de SPA, trabalhamos com tabelas no HTML, classes e herança no JS, Promessas com Async Await, trabalhamos com try / catch / throw...
 
-[Visite o projeto online] (https://fabiano2022.github.io/GITFAV/) 
+
+
+[Visite o projeto online] (https://www.figma.com/design/0Wm4RDyeNNcy98gIuGRZow/Explore-sem-limites-(Copy)?node-id=0-1&t=fiqanLMpqaDPckGA-0)) 
 
 
 ## :memo: Licença
