@@ -36,6 +36,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
+Projeto onde trabalhei e treinei responsividade.
+
 - Iniciei o projeto levando em consideração a regra do mobile first, como você pode ver, no layout já temos a aplicação responsiva também;
 - Utilizei animações, transições e transformações;
 - Utilizei unidades de medida flexíveis (rem);
